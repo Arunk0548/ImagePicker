@@ -3,7 +3,7 @@ cordova-imagePicker
 
 Cordova Plugin For Multiple Image Selection - implemented for iOS and Android 4.0 and above.
 
-### Changes for Android 12/13 [Permission modole]
+## Changes for Android 12/13 [Permission modole]
 
 ## Installing the plugin
 
